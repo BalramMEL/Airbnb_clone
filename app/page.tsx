@@ -23,7 +23,7 @@ const Home = async ({ searchParams }: HomeProps) => {
     )
   }
 
-  return (
+    return (
     <ClientOnly>
       <Container>
         <div className="
