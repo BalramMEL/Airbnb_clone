@@ -12,7 +12,7 @@ export interface IListingsParams {
 }
 
 export default async function getListings(
-  params: IListingsParams  
+  params: IListingsParams   
 ) {
   try {
     const {
